@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "Конвертер HEIC в PNG - Конвертер Изображений",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "Перетащите изображения сюда...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "Перетащите изображения сюда или нажмите для выбора файлов",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "Поддерживаемые форматы: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "Выбранные файлы",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} файлов",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} файл",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "Настройки конвертации",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "Формат вывода",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "Качество",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "Качество ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "Ширина (пиксели)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "Высота (пиксели)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "Исходная ширина",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "Исходная высота",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "Сохранять пропорции",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "Удалить метаданные (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "Конвертировать изображения",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "Конвертация...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "Результаты конвертации",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "Исходный",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "Конвертированный",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "Уменьшение",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "Формат",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "Скачать",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "Б",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "КБ", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "МБ",
+    "description": "Megabytes unit"
+  }
+} 

@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEIC to PNG Converter - Image Format Converter",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "Drop the images here...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "Drag & drop images here, or click to select files",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "Supports JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "Selected Files",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} files",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} file",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "Conversion Settings",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "Output Format",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "Quality",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "Quality ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "Width (pixels)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "Height (pixels)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "Original width",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "Original height",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "Maintain aspect ratio",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "Remove metadata (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "Convert Images",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "Converting...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "Conversion Results",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "Original",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "Converted",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "Reduction",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "Format",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "Download",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "B",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

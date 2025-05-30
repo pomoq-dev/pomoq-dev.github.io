@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEIC till PNG Konverterare - Bildformatkonverterare",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "Släpp bilder här...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "Dra och släpp bilder här, eller klicka för att välja filer",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "Stödda format: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "Valda filer",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} filer",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} fil",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "Konverteringsinställningar",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "Utdataformat",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "Kvalitet",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "Kvalitet ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "Bredd (pixlar)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "Höjd (pixlar)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "Ursprunglig bredd",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "Ursprunglig höjd",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "Behåll bildförhållande",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "Ta bort metadata (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "Konvertera bilder",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "Konverterar...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "Konverteringsresultat",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "Original",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "Konverterad",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "Minskning",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "Format",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "Ladda ner",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "B",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

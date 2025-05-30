@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "เครื่องมือแปลง HEIC เป็น PNG - เครื่องมือแปลงรูปแบบภาพ",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "วางรูปภาพที่นี่...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "ลากและวางรูปภาพที่นี่ หรือคลิกเพื่อเลือกไฟล์",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "รูปแบบที่รองรับ: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "ไฟล์ที่เลือก",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} ไฟล์",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} ไฟล์",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "การตั้งค่าการแปลง",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "รูปแบบเอาต์พุต",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "คุณภาพ",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "คุณภาพ ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "ความกว้าง (พิกเซล)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "ความสูง (พิกเซล)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "ความกว้างต้นฉบับ",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "ความสูงต้นฉบับ",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "รักษาอัตราส่วนภาพ",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "ลบข้อมูลเมตา (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "แปลงรูปภาพ",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "กำลังแปลง...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "ผลการแปลง",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "ต้นฉบับ",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "แปลงแล้ว",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "ลดลง",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "รูปแบบ",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "ดาวน์โหลด",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "ไบต์",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "กิโลไบต์", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "เมกะไบต์",
+    "description": "Megabytes unit"
+  }
+} 

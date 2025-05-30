@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEIC से PNG कन्वर्टर - इमेज फॉर्मेट कन्वर्टर",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "छवियाँ यहाँ छोड़ें...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "छवियाँ यहाँ खींचें और छोड़ें, या फ़ाइल चुनने के लिए क्लिक करें",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "समर्थित प्रारूप: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "चयनित फ़ाइलें",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} फ़ाइलें",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} फ़ाइल",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "रूपांतरण सेटिंग्स",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "आउटपुट प्रारूप",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "गुणवत्ता",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "गुणवत्ता ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "चौड़ाई (पिक्सेल)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "ऊंचाई (पिक्सेल)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "मूल चौड़ाई",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "मूल ऊंचाई",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "पहलू अनुपात बनाए रखें",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "मेटाडेटा हटाएं (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "छवियाँ रूपांतरित करें",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "रूपांतरित कर रहे हैं...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "रूपांतरण परिणाम",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "मूल",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "रूपांतरित",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "कमी",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "प्रारूप",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "डाउनलोड",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "बाइट्स",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

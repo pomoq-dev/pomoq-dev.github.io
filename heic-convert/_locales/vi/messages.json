@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "Chuyển đổi HEIC sang PNG - Bộ chuyển đổi định dạng hình ảnh",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "Thả hình ảnh vào đây...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "Kéo và thả hình ảnh vào đây hoặc nhấp để chọn tệp",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "Định dạng được hỗ trợ: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "Tệp đã chọn",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} tệp",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} tệp",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "Cài đặt chuyển đổi",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "Định dạng đầu ra",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "Chất lượng",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "Chất lượng ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "Chiều rộng (pixel)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "Chiều cao (pixel)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "Chiều rộng gốc",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "Chiều cao gốc",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "Giữ tỷ lệ khung hình",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "Xóa metadata (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "Chuyển đổi hình ảnh",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "Đang chuyển đổi...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "Kết quả chuyển đổi",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "Gốc",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "Đã chuyển đổi",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "Giảm",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "Định dạng",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "Tải xuống",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "B",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

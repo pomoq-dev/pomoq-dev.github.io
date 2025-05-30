@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "محول HEIC إلى PNG - محول تنسيقات الصور",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "أسقط الصور هنا...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "اسحب وأسقط صورك هنا، أو انقر لتحديد الملفات",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "التنسيقات المدعومة: JPG، PNG، GIF، WebP، HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "الملفات المحددة",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} ملفات",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} ملف",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "إعدادات التحويل",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "تنسيق الإخراج",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "الجودة",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "الجودة ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "العرض (بكسل)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "الارتفاع (بكسل)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "العرض الأصلي",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "الارتفاع الأصلي",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "الحفاظ على نسبة العرض إلى الارتفاع",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "إزالة البيانات الوصفية (EXIF، GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "تحويل الصور",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "جاري التحويل...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "نتائج التحويل",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "الأصلي",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "المحول",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "التقليل",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "التنسيق",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "تحميل",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "بايت",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "كيلو بايت", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "ميجا بايت",
+    "description": "Megabytes unit"
+  }
+} 
