@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEIC转PNG转换器 - 图片格式转换工具",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "将图片拖放到这里...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "将图片拖放到这里，或点击选择文件",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "支持的格式：JPG、PNG、GIF、WebP、HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "已选择的文件",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} 个文件",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} 个文件",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "转换设置",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "输出格式",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "质量",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "质量 ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "宽度（像素）",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "高度（像素）",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "原始宽度",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "原始高度",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "保持宽高比",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "删除元数据（EXIF、GPS）",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "转换图片",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "转换中...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "转换结果",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "原始",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "转换后",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "减少",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "格式",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "下载",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "字节",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

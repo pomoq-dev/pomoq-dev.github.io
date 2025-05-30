@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "Konverter HEIC ke PNG - Konverter Format Gambar",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "Jatuhkan gambar di sini...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "Seret dan jatuhkan gambar di sini, atau klik untuk memilih file",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "Format yang didukung: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "File yang dipilih",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} file",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} file",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "Pengaturan konversi",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "Format keluaran",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "Kualitas",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "Kualitas ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "Lebar (piksel)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "Tinggi (piksel)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "Lebar asli",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "Tinggi asli",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "Pertahankan rasio aspek",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "Hapus metadata (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "Konversi gambar",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "Mengkonversi...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "Hasil konversi",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "Asli",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "Dikonversi",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "Pengurangan",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "Format",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "Unduh",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "B",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEIC থেকে PNG কনভার্টার - ইমেজ ফরম্যাট কনভার্টার",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "এখানে ছবি ড্রপ করুন...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "এখানে ছবি ড্রাগ করে ছেড়ে দিন, বা ফাইল নির্বাচন করতে ক্লিক করুন",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "সমর্থিত ফরম্যাট: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "নির্বাচিত ফাইল",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} ফাইল",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} ফাইল",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "রূপান্তর সেটিংস",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "আউটপুট ফরম্যাট",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "গুণমান",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "গুণমান ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "প্রস্থ (পিক্সেল)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "উচ্চতা (পিক্সেল)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "মূল প্রস্থ",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "মূল উচ্চতা",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "অনুপাত বজায় রাখুন",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "মেটাডেটা সরান (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "ছবি রূপান্তর করুন",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "রূপান্তর করা হচ্ছে...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "রূপান্তর ফলাফল",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "মূল",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "রূপান্তরিত",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "হ্রাস",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "ফরম্যাট",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "ডাউনলোড",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "বাইট",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "কিলোবাইট", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "মেগাবাইট",
+    "description": "Megabytes unit"
+  }
+} 

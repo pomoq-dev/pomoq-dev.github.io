@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEIC에서 PNG로 변환기 - 이미지 형식 변환기",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "여기에 이미지를 놓으세요...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "이미지를 여기에 끌어다 놓거나 클릭하여 파일을 선택하세요",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "지원되는 형식: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "선택된 파일",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} 파일",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} 파일",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "변환 설정",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "출력 형식",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "품질",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "품질 ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "너비 (픽셀)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "높이 (픽셀)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "원본 너비",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "원본 높이",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "가로세로 비율 유지",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "메타데이터 제거 (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "이미지 변환",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "변환 중...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "변환 결과",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "원본",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "변환됨",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "감소",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "형식",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "다운로드",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "바이트",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

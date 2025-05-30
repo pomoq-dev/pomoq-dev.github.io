@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "Conversor HEIC para PNG - Conversor de Formatos de Imagem",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "Solte as imagens aqui...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "Arraste e solte suas imagens aqui, ou clique para selecionar arquivos",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "Formatos suportados: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "Arquivos selecionados",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} arquivos",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} arquivo",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "Configurações de conversão",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "Formato de saída",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "Qualidade",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "Qualidade ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "Largura (pixels)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "Altura (pixels)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "Largura original",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "Altura original",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "Manter proporção",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "Remover metadados (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "Converter imagens",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "Convertendo...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "Resultados da conversão",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "Original",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "Convertido",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "Redução",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "Formato",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "Baixar",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "B",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEICからPNGへの変換 - 画像フォーマット変換ツール",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "ここに画像をドロップしてください...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "ここに画像をドラッグ＆ドロップするか、クリックしてファイルを選択してください",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "対応フォーマット：JPG、PNG、GIF、WebP、HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "選択されたファイル",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} ファイル",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} ファイル",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "変換設定",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "出力フォーマット",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "品質",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "品質 ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "幅（ピクセル）",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "高さ（ピクセル）",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "元の幅",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "元の高さ",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "縦横比を維持",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "メタデータを削除（EXIF、GPS）",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "画像を変換",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "変換中...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "変換結果",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "元のサイズ",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "変換後",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "削減",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "フォーマット",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "ダウンロード",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "B",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 

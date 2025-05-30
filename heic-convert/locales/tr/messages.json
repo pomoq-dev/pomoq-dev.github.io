@@ -1,0 +1,114 @@
+{
+  "appTitle": {
+    "message": "HEIC'den PNG'ye Dönüştürücü - Görüntü Formatı Dönüştürücü",
+    "description": "Main application title"
+  },
+  "dropImagesHere": {
+    "message": "Görüntüleri buraya bırakın...",
+    "description": "Text shown when dragging files"
+  },
+  "dragAndDropText": {
+    "message": "Görüntüleri buraya sürükleyip bırakın veya dosya seçmek için tıklayın",
+    "description": "Main dropzone instruction text"
+  },
+  "supportedFormatsText": {
+    "message": "Desteklenen formatlar: JPG, PNG, GIF, WebP, HEIC/HEIF",
+    "description": "Text showing supported file formats"
+  },
+  "selectedFiles": {
+    "message": "Seçilen dosyalar",
+    "description": "Title for selected files section"
+  },
+  "filesCount": {
+    "message": "{count} dosya",
+    "description": "Shows number of selected files"
+  },
+  "fileCount": {
+    "message": "{count} dosya",
+    "description": "Shows number of selected files (singular)"
+  },
+  "conversionSettings": {
+    "message": "Dönüştürme ayarları",
+    "description": "Title for conversion settings section"
+  },
+  "outputFormat": {
+    "message": "Çıktı formatı",
+    "description": "Label for format selection"
+  },
+  "quality": {
+    "message": "Kalite",
+    "description": "Label for quality setting"
+  },
+  "qualityPercentage": {
+    "message": "Kalite ({percentage}%)",
+    "description": "Quality label with percentage"
+  },
+  "width": {
+    "message": "Genişlik (piksel)",
+    "description": "Label for width input"
+  },
+  "height": {
+    "message": "Yükseklik (piksel)",
+    "description": "Label for height input"
+  },
+  "originalWidth": {
+    "message": "Orijinal genişlik",
+    "description": "Placeholder for width input"
+  },
+  "originalHeight": {
+    "message": "Orijinal yükseklik",
+    "description": "Placeholder for height input"
+  },
+  "maintainAspectRatio": {
+    "message": "En boy oranını koru",
+    "description": "Checkbox label for aspect ratio"
+  },
+  "removeMetadata": {
+    "message": "Meta verileri kaldır (EXIF, GPS)",
+    "description": "Checkbox label for metadata removal"
+  },
+  "convertImages": {
+    "message": "Görüntüleri dönüştür",
+    "description": "Button text for conversion"
+  },
+  "converting": {
+    "message": "Dönüştürülüyor...",
+    "description": "Button text during conversion"
+  },
+  "conversionResults": {
+    "message": "Dönüştürme sonuçları",
+    "description": "Title for results section"
+  },
+  "original": {
+    "message": "Orijinal",
+    "description": "Label for original file size"
+  },
+  "converted": {
+    "message": "Dönüştürülmüş",
+    "description": "Label for converted file size"
+  },
+  "reduction": {
+    "message": "Azalma",
+    "description": "Label for size reduction"
+  },
+  "format": {
+    "message": "Format",
+    "description": "Label for file format"
+  },
+  "download": {
+    "message": "İndir",
+    "description": "Download button text"
+  },
+  "bytes": {
+    "message": "B",
+    "description": "Bytes unit"
+  },
+  "kilobytes": {
+    "message": "KB", 
+    "description": "Kilobytes unit"
+  },
+  "megabytes": {
+    "message": "MB",
+    "description": "Megabytes unit"
+  }
+} 
